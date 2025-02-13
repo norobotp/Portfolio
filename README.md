@@ -7,6 +7,7 @@
 I am a Data Scientist at the University of Michigan, where I am also pursuing my Master of Science in Data Science. My academic journey began in South Korea, where I earned my Bachelor's degree in Electronic Engineering from Inha University. This unique combination of electronics engineering and data science allows me to bring a distinctive perspective to data-driven problem solving.
 
 My background in electronics, coupled with my current role as a Data Scientist, enables me to bridge the gap between hardware systems and data analytics. At the University of Michigan, I apply this interdisciplinary knowledge to extract meaningful insights from complex datasets while maintaining a deep understanding of the underlying systems.
+
 </br>
 
 ## :pushpin: Contact
