@@ -1,5 +1,5 @@
 # Seung Seok Lee's Portfolio
-Hardware Mindset, Data Science Vision
+"Hardware Mindset, Data Science Vision"
 
 </br>
 
@@ -17,36 +17,48 @@ My background in electronics, coupled with my current role as a Data Scientist, 
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+### 1. [H1B Visa Analysis](https://github.com/norobotp/Relationships-between-H1B-Visa-Living-Wage-and-Income)
+>Analysis of H1B Visa Distribution and Economic Indicators using Machine Learning (Team Project)
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Duration: 2024 Winter Academic Year 
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>Tech Stack:
+>Python / Scikit-learn / Pandas / NumPy / Matplotlib / Seaborn
+>  
+>[Project Details](https://github.com/norobotp/Relationships-between-H1B-Visa-Living-Wage-and-Income)
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [Job Matching IR Engine](https://github.com/norobotp/Job-Matching-IR-Engine)
+>Location-Aware Semantic Search System (Team Project)
+> 
+>Duration: 2024 Fall Academic Year
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>  Tech Stack:
+>  Python / BM25 / BERT / LightGBM / Cross-Encoder / TF-IDF
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[Project Details](https://github.com/norobotp/Job-Matching-IR-Engine)
 
 ---
 
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+### 3. [Bayesian Analysis of H1B Visa Approval Patterns](https://github.com/norobotp/Bayesian-Analysis-of-H1B-Visa-Approval-Patterns)
+>Statistical Analysis of H1B Visa Approval Patterns using Hierarchical Bayesian Modeling (Team Project)
+> 
+>Duration: 2024 Fall Academic Year
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>  Tech Stack:
+>  Python / Stan / R / Bayesian Modeling / Data Analysis / Statistical Inference
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[Project Details](https://github.com/norobotp/Bayesian-Analysis-of-H1B-Visa-Approval-Patterns)
+
+---
+
+### 4. [Cancer Survival Prediction](https://github.com/norobotp/Cancer-Patient-Survival-Time-Prediction)
+>Predicting Cancer Patient Survival Time using Spatial Proteomics Data (Team Project)
+> 
+>Duration: 2024 Winter Academic Year
+>  
+>  Tech Stack:
+>  Python / CNN / Random Forest / ResNet / DenseNet / Deep Learning
+>  
+>[Project Details](https://github.com/norobotp/Cancer-Patient-Survival-Time-Prediction)
