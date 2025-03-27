@@ -63,3 +63,18 @@ My background in electronics, coupled with my current role as a Data Scientist, 
 >  Python / CNN / Random Forest / ResNet / DenseNet / Deep Learning
 >  
 >[Project Details](https://github.com/norobotp/Cancer-Patient-Survival-Time-Prediction)
+
+---
+
+### 5. [Analysis of Average House Prices in Seattle](https://github.com/norobotp/Analysis-of-Average-House-Prices-in-Seattle)
+>Time Series Forecasting of Seattle Housing Prices using SARIMA and Regression with SARMA Errors (Team Project)
+> 
+>Duration: 2025 Winter Academic Year
+>  
+>  Tech Stack:
+>  Python / R / SARIMA / ARIMA / SARMA / Time Series Analysis / Forecasting
+>
+>  Summary:
+This project analyzes the trends and seasonality of housing prices in Seattle using Zillow Research Data. We explored the periodic behavior of housing prices using decomposition, spectral analysis, and autocorrelation functions. Based on these insights, we built SARIMA and Regression models with SARMA errors, comparing their forecasting performances. The study provides valuable insights into real estate price dynamics, seasonal effects, and the impact of external factors such as mortgage rates and inflation.
+>  
+>[Project Details](https://github.com/norobotp/Analysis-of-Average-House-Prices-in-Seattle)
