@@ -1,7 +1,7 @@
 # Seung Seok Lee's Portfolio
-"Hardware Mindset, Data Science Vision"
+#### "Hardware Mindset, Data Science Vision"
 
----
+</br>
 
 ## :pushpin: Intro
 I am a Master of Science in Data Science student at the University of Michigan, currently working as a Research Assistant on machine learning and statistical modeling projects. My academic journey began in South Korea, where I earned my Bachelor's degree in Electronic Engineering from Inha University. This interdisciplinary foundation allows me to bridge the gap between hardware systems and data-driven insights, leveraging both engineering intuition and analytical rigor.
