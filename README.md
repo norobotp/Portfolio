@@ -1,5 +1,5 @@
 # Seung Seok Lee's Portfolio
-#### "Hardware Mindset, Data Science Vision"
+"Hardware Mindset, Data Science Vision"
 
 </br>
 
