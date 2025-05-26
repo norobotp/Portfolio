@@ -4,9 +4,7 @@
 </br>
 
 ## :pushpin: Intro
-I am a Data Scientist at the University of Michigan, where I am also pursuing my Master of Science in Data Science. My academic journey began in South Korea, where I earned my Bachelor's degree in Electronic Engineering from Inha University. This unique combination of electronics engineering and data science allows me to bring a distinctive perspective to data-driven problem solving.
-
-My background in electronics, coupled with my current role as a Data Scientist, enables me to bridge the gap between hardware systems and data analytics. At the University of Michigan, I apply this interdisciplinary knowledge to extract meaningful insights from complex datasets while maintaining a deep understanding of the underlying systems.
+I am a Master of Science in Data Science student at the University of Michigan, currently working as a Research Assistant on machine learning and statistical modeling projects. My academic journey began in South Korea, where I earned my Bachelor's degree in Electronic Engineering from Inha University. This interdisciplinary foundation allows me to bridge the gap between hardware systems and data-driven insights, leveraging both engineering intuition and analytical rigor.
 
 </br>
 
@@ -27,7 +25,7 @@ My background in electronics, coupled with my current role as a Data Scientist, 
 >  Python / Scikit-learn / Pandas / NumPy / Matplotlib / Seaborn
 >
 >  Summary:
->  This project analyzed the relationship between H1B visa approvals, wage levels, and economic factors using exploratory data analysis (EDA), statistical modeling, and machine learning techniques. We examined the correlation between prevailing wage, cost of living, and H1B approval rates across different job sectors and geographic locations. Using regression models and classification algorithms, we identified key predictors influencing visa approvals and uncovered disparities in wage levels among different industries​.
+> Conducted EDA and statistical modeling to analyze the relationship between H1B visa approvals, prevailing wages, and cost of living. Implemented classification and regression models to identify key predictors across job sectors and geographies. Revealed wage disparities and approval trends, offering insights for immigration and labor policy analysis.
 >
 >[Project Details](https://github.com/norobotp/Relationships-between-H1B-Visa-Living-Wage-and-Income)
 
@@ -42,8 +40,7 @@ My background in electronics, coupled with my current role as a Data Scientist, 
 >  Python / BM25 / BERT / LightGBM / Cross-Encoder / TF-IDF
 >
 >  Summary:
->  This project focused on developing a location-aware job search engine that leverages semantic matching and ranking models to improve job recommendations. Using a combination of BM25, BERT-based Cross-Encoders, and Learning-to-Rank (L2R) techniques, we optimized search results based on job descriptions, required skills, and geographic constraints. The final model outperformed traditional keyword-based retrieval methods, providing more contextually relevant job recommendations.
->
+>  Built a location-aware job search engine that interprets natural language queries and ranks job results by relevance. Designed and deployed a hybrid ranker combining BM25 and a BERT-based cross-encoder with location filtering. Enhanced user experience through an interactive front-end and improved retrieval performance over traditional keyword search.
 >[Project Details](https://github.com/norobotp/Job-Matching-IR-Engine)
 
 ---
@@ -57,7 +54,7 @@ My background in electronics, coupled with my current role as a Data Scientist, 
 >  Python / Stan / R / Bayesian Modeling / Data Analysis / Statistical Inference
 >
 >  Summary:
->  This study applied hierarchical Bayesian modeling to analyze H1B visa approval patterns, leveraging USCIS employer petition data from 2022-2024. We identified key factors influencing visa approval rates, including employer application volume, industry sector, and geographic distribution. Using Bayesian inference, we derived probabilistic insights for optimizing application strategies and quantified disparities in approval rates across different sectors and regions.
+>  Developed a hierarchical Bayesian logistic regression model using USCIS H1B data from 2022–2024. Modeled interactions between employer size, industry, and location to identify probabilistic factors behind visa approval rates. Produced interpretable visualizations and optimized priors using Stan MCMC diagnostics.
 >
 >[Project Details](https://github.com/norobotp/Bayesian-Analysis-of-H1B-Visa-Approval-Patterns)
 
@@ -72,7 +69,7 @@ My background in electronics, coupled with my current role as a Data Scientist, 
 >  Python / CNN / Random Forest / ResNet / DenseNet / Deep Learning
 >
 >  Summary:
->  This project aimed to predict cancer patient survival time using high-dimensional spatial proteomics data. We extracted features from 52 protein channels in tumor images and trained models using CNN, Random Forest, ResNet-18, and DenseNet-201. The best-performing model, CNN-RFR (denoise), improved prediction accuracy, but challenges remained due to data sparsity and confounding factors. This study highlighted the potential of deep learning in survival analysis and the need for further optimization in biomedical AI applications.
+>  Predicted cancer patients’ survival time using spatial proteomics data from 52 protein channels. Extracted statistical and morphological features and trained DNN and ensemble models. The best-performing model, CNN-RFR (denoise), achieved superior MAE and R² scores. Applied denoising to reduce noisy channels and improve prediction accuracy in a high-dimensional biomedical context.
 >
 >[Project Details](https://github.com/norobotp/Cancer-Patient-Survival-Time-Prediction)
 
@@ -87,6 +84,21 @@ My background in electronics, coupled with my current role as a Data Scientist, 
 >  Python / R / SARIMA / ARIMA / SARMA / Time Series Analysis / Forecasting
 >
 >  Summary:
->  This project analyzes the trends and seasonality of housing prices in Seattle using Zillow Research Data. We explored the periodic behavior of housing prices using decomposition, spectral analysis, and autocorrelation functions. Based on these insights, we built SARIMA and Regression models with SARMA errors, comparing their forecasting performances. The study provides valuable insights into real estate price dynamics, seasonal effects, and the impact of external factors such as mortgage rates and inflation.
+>  Performed time series analysis on Seattle housing market data using decomposition, autocorrelation, and spectral methods. Modeled seasonality and external influences like mortgage rates using SARIMA and regression with SARMA errors. Compared model performance and provided price trend forecasts to assess real estate market dynamics.
 >  
 >[Project Details](https://github.com/norobotp/Analysis-of-Average-House-Prices-in-Seattle)
+
+---
+
+### 6. [Analysis of Malaria Cases in Florida][(https://github.com/norobotp/Analysis-of-Average-House-Prices-in-Seattle)](https://github.com/norobotp/Analysis-of-Malaria-Cases-in-Florida)
+>Time Series Forecasting of Seattle Housing Prices using SARIMA and Regression with SARMA Errors (Team Project)
+> 
+>Duration: 2025 Winter Academic Year
+>  
+>  Tech Stack:
+>  Python / R / pomp / mif2 / SARMA / Time Series Analysis / pfilter / spline modeling
+>
+>  Summary:
+>  Simulated and inferred seasonal malaria transmission in Florida using a stochastic SEIR model with spline-based seasonal forcing. Integrated local and global parameter estimation via iterated filtering and particle filtering. Estimated parameters affecting disease dynamics and evaluated model fit with likelihood profiling, validating predictions against reported case data. This project demonstrated the application of advanced time-series inference methods to real-world epidemiological modeling.
+>  
+>[Project Details](https://github.com/norobotp/Analysis-of-Malaria-Cases-in-Florida)
