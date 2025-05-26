@@ -90,8 +90,8 @@ I am a Master of Science in Data Science student at the University of Michigan, 
 
 ---
 
-### 6. [Analysis of Malaria Cases in Florida][(https://github.com/norobotp/Analysis-of-Average-House-Prices-in-Seattle)](https://github.com/norobotp/Analysis-of-Malaria-Cases-in-Florida)
->Time Series Forecasting of Seattle Housing Prices using SARIMA and Regression with SARMA Errors (Team Project)
+### 6. [Analysis of Malaria Cases in Florida](https://github.com/norobotp/Analysis-of-Malaria-Cases-in-Florida)
+>Infectious Disease Modeler (Team Project)
 > 
 >Duration: 2025 Winter Academic Year
 >  
