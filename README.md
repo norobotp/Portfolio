@@ -41,6 +41,7 @@ I am a Master of Science in Data Science student at the University of Michigan, 
 >
 >  Summary:
 >  Built a location-aware job search engine that interprets natural language queries and ranks job results by relevance. Designed and deployed a hybrid ranker combining BM25 and a BERT-based cross-encoder with location filtering. Enhanced user experience through an interactive front-end and improved retrieval performance over traditional keyword search.
+>
 >[Project Details](https://github.com/norobotp/Job-Matching-IR-Engine)
 
 ---
